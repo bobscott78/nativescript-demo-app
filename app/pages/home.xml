@@ -1,0 +1,5 @@
+<Page xmlns="http://www.nativescript.org/tns.xsd" loaded="pageLoaded">
+  <StackLayout>
+    <Label text="This is the homepage" cssClass="title"/>
+  </StackLayout>
+</Page>
